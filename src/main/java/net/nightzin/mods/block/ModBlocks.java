@@ -22,6 +22,14 @@ public class ModBlocks {
             new Block(AbstractBlock.Settings.create().strength(4f)
                     .requiresTool().sounds(BlockSoundGroup.DRIPSTONE_BLOCK)));
 
+    public static final Block PINK_GARNET_DEEPSLATE_ORE = registerBlock("pink_garnet_deepslate_ore",
+            new Block(AbstractBlock.Settings.create().strength(4f)
+                    .requiresTool().sounds(BlockSoundGroup.DEEPSLATE)));
+
+    public static final Block PINK_GARNET_ORE = registerBlock("pink_garnet_ore",
+            new Block(AbstractBlock.Settings.create().strength(4f)
+                    .requiresTool().sounds(BlockSoundGroup.STONE)));
+
     // metodos para auxiliar
     private static Block registerBlock(String name, Block block) {
         registerBlockItem(name, block);
@@ -39,6 +47,8 @@ public class ModBlocks {
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.BUILDING_BLOCKS).register(fabricItemGroupEntries -> {
             fabricItemGroupEntries.add(ModBlocks.PINK_GARNET_BLOCK);
             fabricItemGroupEntries.add(ModBlocks.RAW_PINK_GARNET_BLOCK);
+            fabricItemGroupEntries.add(ModBlocks.PINK_GARNET_DEEPSLATE_ORE);
+            fabricItemGroupEntries.add(ModBlocks.PINK_GARNET_ORE);
         });
     }
 }
