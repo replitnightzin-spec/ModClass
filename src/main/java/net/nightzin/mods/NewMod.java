@@ -2,6 +2,7 @@ package net.nightzin.mods;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.fabricmc.fabric.api.registry.FuelRegistry;
 import net.nightzin.mods.block.ModBlocks;
 import net.nightzin.mods.item.ModItems;
 import net.nightzin.mods.item.ModItemsGroup;
@@ -18,5 +19,7 @@ public class NewMod implements ModInitializer {
 
         ModItems.registerModItems();
         ModBlocks.registerModBlocks();
+
+        FuelRegistry.INSTANCE.add(ModItems.STARLIGHT_ASHES, 600);
 	}
 }
