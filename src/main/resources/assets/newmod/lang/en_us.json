@@ -3,11 +3,15 @@
   "item.newmod.pinto": "Pinto",
   "item.newmod.raw_pink_garnet": "Raw Pink Garnet",
   "item.newmod.chisel": "Chisel",
+  "item.newmod.cauliflower": "Cauliflower",
+
 
   "block.newmod.pink_garnet_block": "Pink Garnet Block",
   "block.newmod.raw_pink_garnet_block": "Raw Pink Garnet Block",
   "block.newmod.pink_garnet_deepslate_ore": "Pink Garnet Deepslate Ore",
   "block.newmod.pink_garnet_ore": "Pink Garnet Ore",
+
+  "block.newmod.magic_block": "Magic Block",
 
   "itemgroup.newmod.pink_garnet_items": "Pink Garnet Items",
   "itemgroup.newmod.pink_garnet_blocks": "Pink Garnet Blocks"

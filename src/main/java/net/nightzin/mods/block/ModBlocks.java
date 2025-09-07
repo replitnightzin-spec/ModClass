@@ -11,6 +11,7 @@ import net.minecraft.registry.Registry;
 import net.minecraft.sound.BlockSoundGroup;
 import net.minecraft.util.Identifier;
 import net.nightzin.mods.NewMod;
+import net.nightzin.mods.block.custom.MagicBlock;
 
 public class ModBlocks {
     // blocos
@@ -30,6 +31,9 @@ public class ModBlocks {
             new Block(AbstractBlock.Settings.create().strength(4f)
                     .requiresTool().sounds(BlockSoundGroup.STONE)));
 
+
+    public static final Block MAGIC_BLOCK = registerBlock("magic_block",
+            new MagicBlock(AbstractBlock.Settings.create().strength(1f).requiresTool()));
     // metodos para auxiliar
     private static Block registerBlock(String name, Block block) {
         registerBlockItem(name, block);
@@ -47,8 +51,11 @@ public class ModBlocks {
         ItemGroupEvents.modifyEntriesEvent(ItemGroups.BUILDING_BLOCKS).register(fabricItemGroupEntries -> {
             fabricItemGroupEntries.add(ModBlocks.PINK_GARNET_BLOCK);
             fabricItemGroupEntries.add(ModBlocks.RAW_PINK_GARNET_BLOCK);
+
             fabricItemGroupEntries.add(ModBlocks.PINK_GARNET_DEEPSLATE_ORE);
             fabricItemGroupEntries.add(ModBlocks.PINK_GARNET_ORE);
+
+            fabricItemGroupEntries.add(ModBlocks.MAGIC_BLOCK);
         });
     }
 }
