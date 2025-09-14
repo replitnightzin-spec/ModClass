@@ -17,6 +17,12 @@
   "block.newmod.magic_block": "Magic Block",
 
   "itemgroup.newmod.pink_garnet_items": "Pink Garnet Items",
-  "itemgroup.newmod.pink_garnet_blocks": "Pink Garnet Blocks"
+  "itemgroup.newmod.pink_garnet_blocks": "Pink Garnet Blocks",
 
+  "tooltip.newmod.magic_block.tooltip": "This is a magic Block, he does some crazy things!!",
+
+  "tooltip.newmod.chisel.shift_down": "When you click on a block change his decoration",
+  "tooltip.newmod.chisel":"Shift for more",
+
+  "tooltip.newmod.starlightashes.tooltip": "A fuel from the outer space..."
 }
