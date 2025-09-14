@@ -1,0 +1,6 @@
+// 1.21.1	2025-09-14T17:58:03.1182548	NewMod/Block Loot Tables
+c8d0abe8366ec769a6c329eaecbaef7d5f95d75b data\newmod\loot_table\blocks\raw_pink_garnet_block.json
+ed5745e161e54ef4515f8ce4495868a970eee04b data\newmod\loot_table\blocks\pink_garnet_ore.json
+fda09e114a5332ba7b9a1852e4c5ad430aa47d8f data\newmod\loot_table\blocks\pink_garnet_block.json
+6483e26d04813422a1831dd2fc0d415d6bd26e43 data\newmod\loot_table\blocks\pink_garnet_deepslate_ore.json
+6b41e85a0b7b3518e14dd184865dfa9ed73f3d87 data\newmod\loot_table\blocks\magic_block.json
