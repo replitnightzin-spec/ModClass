@@ -11,6 +11,7 @@ import net.minecraft.sound.BlockSoundGroup;
 import net.minecraft.util.Identifier;
 import net.nightzin.mods.NewMod;
 import net.nightzin.mods.block.custom.MagicBlock;
+import net.nightzin.mods.block.custom.PinkGarnetLampBlock;
 
 public class ModBlocks {
     // blocos
@@ -53,6 +54,11 @@ public class ModBlocks {
             new DoorBlock(BlockSetType.IRON, AbstractBlock.Settings.create().strength(2f).requiresTool().nonOpaque()));
     public static final Block PINK_GARNET_TRAPDOOR = registerBlock("pink_garnet_trapdoor",
             new TrapdoorBlock(BlockSetType.IRON, AbstractBlock.Settings.create().strength(2f).requiresTool().nonOpaque()));
+
+
+    public static final Block PINK_GARNET_LAMP = registerBlock("pink_garnet_lamp",
+            new PinkGarnetLampBlock(AbstractBlock.Settings.create()
+                    .strength(1f).requiresTool().luminance(state -> state.get(PinkGarnetLampBlock.CLICKED) ? 15 : 0)));
 
     public static final Block MAGIC_BLOCK = registerBlock("magic_block",
             new MagicBlock(AbstractBlock.Settings.create().strength(1f).requiresTool()));
