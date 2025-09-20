@@ -1,2 +1,7 @@
-// 1.21.1	2025-09-20T16:16:59.3321823	NewMod/Tags for minecraft:item
+// 1.21.1	2025-09-20T20:15:17.0747981	NewMod/Tags for minecraft:item
 138587687f0e465476316d96c7c49f4b45121de2 data\newmod\tags\item\transformable_items.json
+1f6cd75b21a76e6060d1856692cf9b5fb099feb0 data\minecraft\tags\item\axes.json
+f9018d0905d187ad05426e0ed8034114ddf81def data\minecraft\tags\item\hoes.json
+f79f3840a3a0e486c703bd1ae72b6c648726ed75 data\minecraft\tags\item\swords.json
+00a32bb66adfdceacc75b445968d66c779dcb383 data\minecraft\tags\item\pickaxes.json
+9dc8cc993daaed40ac3db0035304e335ea684d81 data\minecraft\tags\item\shovels.json

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "newmod:item/pink_garnet_sword"
+  }
+}

@@ -1,6 +1,8 @@
-// 1.21.1	2025-09-20T16:16:59.3241871	NewMod/Tags for minecraft:block
+// 1.21.1	2025-09-20T20:15:17.0678016	NewMod/Tags for minecraft:block
 09cfc7efa79a3520eeb7fda0b834a0f5d3e56e85 data\minecraft\tags\block\mineable\pickaxe.json
 049d673ce6319bbfe3e9aad387c43144a866e1c1 data\minecraft\tags\block\fence_gates.json
+bd931542d5c8df6838f6d31d404161ae620c687f data\newmod\tags\block\needs_pink_garnet_tool.json
 56d3fa3f3de64abfc1038a47f6cac14ded956d36 data\minecraft\tags\block\needs_iron_tool.json
 b93c1ecad9d05cb9b576a9bfde1c786d16f56e32 data\minecraft\tags\block\fences.json
 25196e3cc3f883c9d1d5d93ac1e74113b8013c7b data\minecraft\tags\block\walls.json
+6d2da7d82a03ff8a7be48f8dc97dc39261310947 data\minecraft\tags\block\needs_diamond_tool.json
