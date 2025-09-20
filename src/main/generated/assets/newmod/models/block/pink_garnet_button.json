@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/button",
+  "textures": {
+    "texture": "newmod:block/pink_garnet_block"
+  }
+}

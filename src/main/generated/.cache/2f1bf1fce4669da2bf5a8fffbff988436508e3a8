@@ -1,6 +1,15 @@
-// 1.21.1	2025-09-14T17:58:03.1182548	NewMod/Block Loot Tables
+// 1.21.1	2025-09-20T15:39:32.6251647	NewMod/Block Loot Tables
+e138eb8847b24ca26096fd4cf73e7fd4cecb31d9 data\newmod\loot_table\blocks\pink_garnet_button.json
 c8d0abe8366ec769a6c329eaecbaef7d5f95d75b data\newmod\loot_table\blocks\raw_pink_garnet_block.json
 ed5745e161e54ef4515f8ce4495868a970eee04b data\newmod\loot_table\blocks\pink_garnet_ore.json
 fda09e114a5332ba7b9a1852e4c5ad430aa47d8f data\newmod\loot_table\blocks\pink_garnet_block.json
+5ba93afdf2bba65e0c15705515dcc0f58ebcfc5d data\newmod\loot_table\blocks\pink_garnet_slab.json
+f0e7fc888d71af64bc074a945fcafb82555beb22 data\newmod\loot_table\blocks\pink_garnet_pressure_plate.json
+89d3d899ee684fa9e35ac68b49eaccac58949040 data\newmod\loot_table\blocks\pink_garnet_trapdoor.json
+dfe6f944e4178353926c2961ff3b1782439f14a7 data\newmod\loot_table\blocks\pink_garnet_fence.json
+9c327aab2211daf45aeb8273bfb61f51053933e3 data\newmod\loot_table\blocks\pink_garnet_wall.json
+d667aea07175f24d1670cd90560eec11f4877448 data\newmod\loot_table\blocks\pink_garnet_stairs.json
 6483e26d04813422a1831dd2fc0d415d6bd26e43 data\newmod\loot_table\blocks\pink_garnet_deepslate_ore.json
+918250bf71ac7f1f99ab494b3f341b70ab51cae5 data\newmod\loot_table\blocks\pink_garnet_fence_gate.json
 6b41e85a0b7b3518e14dd184865dfa9ed73f3d87 data\newmod\loot_table\blocks\magic_block.json
+c3211eea8c45d6feedb123d94c8c17b040b84d1d data\newmod\loot_table\blocks\pink_garnet_door.json
