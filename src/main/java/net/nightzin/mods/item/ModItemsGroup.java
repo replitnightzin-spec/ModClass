@@ -31,6 +31,8 @@ public class ModItemsGroup {
                         entries.add(ModItems.PINK_GARNET_SHOVEL);
                         entries.add(ModItems.PINK_GARNET_AXE);
 
+                        entries.add(ModItems.PINK_GARNET_HAMMER);
+
                     }).build());
 
     public static final ItemGroup PINK_GARNET_BLOCKS_GROUP = Registry.register(Registries.ITEM_GROUP,

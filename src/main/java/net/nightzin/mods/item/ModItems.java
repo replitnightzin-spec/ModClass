@@ -10,6 +10,7 @@ import net.minecraft.text.Text;
 import net.minecraft.util.Identifier;
 import net.nightzin.mods.NewMod;
 import net.nightzin.mods.item.custom.ChiselItem;
+import net.nightzin.mods.item.custom.HammerItem;
 
 import java.util.List;
 
@@ -55,6 +56,11 @@ public class ModItems {
     private static Item registerItem(String name, Item item) {
         return Registry.register(Registries.ITEM, Identifier.of(NewMod.MOD_ID, name), item);
     }
+
+    public static final Item PINK_GARNET_HAMMER = registerItem("pink_garnet_hammer",
+            new HammerItem(ModToolMaterials.PINK_GARNET, new Item.Settings()
+                    .attributeModifiers(PickaxeItem.createAttributeModifiers(ModToolMaterials.PINK_GARNET, 7, -3.4f))));
+
 
     public static void registerModItems(){
         NewMod.LOGGER.info("Registering more itens");

@@ -1,4 +1,4 @@
-// 1.21.1	2025-09-20T20:15:17.0717988	NewMod/Model Definitions
+// 1.21.1	2025-09-24T18:11:14.5769078	NewMod/Model Definitions
 c64078115a6e4923b247a5ee29981a1d0479dec6 assets\newmod\models\block\pink_garnet_wall_post.json
 a9a7659576ffe0502d48d9d53148db9fac163fe6 assets\newmod\models\block\pink_garnet_block.json
 012eef8aaddca4d8d1d5108c429395161611dc9f assets\newmod\models\block\pink_garnet_ore.json
@@ -10,8 +10,8 @@ ae5350e553b5ac41db225bbcc37500b149fc16a5 assets\newmod\models\block\pink_garnet_
 e8d37a7b13dea8ff25d68766e0cd6ef7d94ed51a assets\newmod\models\item\pink_garnet.json
 36bc940322db8a967fb562ad62e9cf232d9a01d4 assets\newmod\models\block\pink_garnet_stairs_inner.json
 85ca05444991965eac3a3b80383159d26dafe810 assets\newmod\models\block\pink_garnet_button.json
-6fedf95debeacf0a17388e255f7d0e8309885ff0 assets\newmod\models\block\pink_garnet_trapdoor_bottom.json
 03379382fd42246c15c0a6d1fdc72a3b09ab6158 assets\newmod\models\item\pink_garnet_hoe.json
+6fedf95debeacf0a17388e255f7d0e8309885ff0 assets\newmod\models\block\pink_garnet_trapdoor_bottom.json
 7bc659bc05a84a62da2790f250b57f23118f20ef assets\newmod\models\block\pink_garnet_door_top_right_open.json
 1843f85c32d0586d79c8140757c98612742ecf95 assets\newmod\models\block\pink_garnet_wall_side_tall.json
 8c5ff6c50a50792563c5fe2a46ffde7c0a461ab3 assets\newmod\models\item\maconha.json
@@ -28,11 +28,11 @@ c1f575fc140055ceef921695444e41558c5454b9 assets\newmod\blockstates\pink_garnet_f
 a3da372b5501be852883290cdc7d1490cde5e494 assets\newmod\blockstates\pink_garnet_pressure_plate.json
 9cdf38eb3490f4f02ff8ea7554f2b71127c8ad7a assets\newmod\models\block\pink_garnet_stairs_outer.json
 9ff07e5b3c3920b6a03d4eab2a0fb82c8bce01c0 assets\newmod\models\block\pink_garnet_door_bottom_right_open.json
-16b256fe1095dc2dc4ed79176c7ce1c51d6e4132 assets\newmod\models\block\pink_garnet_pressure_plate_down.json
 61c3c49d0e87277980f9296a7708daad129c63c3 assets\newmod\blockstates\pink_garnet_wall.json
+16b256fe1095dc2dc4ed79176c7ce1c51d6e4132 assets\newmod\models\block\pink_garnet_pressure_plate_down.json
 848c3af114f7fb49d211f58a350fe0cdfd9f264e assets\newmod\models\item\pink_garnet_ore.json
-b62ce95d3e5d2b24d677854bc952d5a52ea549d0 assets\newmod\models\item\cauliflower.json
 308a0cee8f1dd3898c67a844b7c7cb80775fc99d assets\newmod\models\block\pink_garnet_fence_gate_wall.json
+b62ce95d3e5d2b24d677854bc952d5a52ea549d0 assets\newmod\models\item\cauliflower.json
 5e9db04f71ee44b7cb28ec816c9dbe2847237267 assets\newmod\models\item\pink_garnet_axe.json
 0c8bb661572989b04b154ce7004364dd381d5eba assets\newmod\blockstates\pink_garnet_deepslate_ore.json
 cd2295d77d6073da2ff5cf9d1984cad3ab179478 assets\newmod\blockstates\pink_garnet_lamp.json
@@ -50,6 +50,7 @@ f52d82a0bb3e4b4e1f247af80e18b51e7b443ec5 assets\newmod\models\block\pink_garnet_
 65476dc73d99c799b77977996d151c35b94c638b assets\newmod\models\item\pink_garnet_lamp.json
 e2bc97a82e05701bcfacbac39c5d6e9a977e44b5 assets\newmod\models\item\magic_block.json
 2311d11c9834e463d6b9aa2221caefb76ae67c31 assets\newmod\models\block\pink_garnet_fence_side.json
+00f11878398aa1e1984645a2c17ef2229614ceb2 assets\newmod\models\item\pink_garnet_hammer.json
 969d1b8582c8ce3f677259e89320719b3985f664 assets\newmod\models\item\pink_garnet_door.json
 4abbc12f759b9d1416df86a4a2cc740d4ce77826 assets\newmod\blockstates\pink_garnet_button.json
 89fee972a2d0eee2eabc1ba6520d10567991b404 assets\newmod\models\item\pink_garnet_fence_gate.json
